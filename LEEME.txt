@@ -1,0 +1,73 @@
+MÁS ALLÁ DEL BRILLO · FASES 01, 02 Y 03
+
+Abrir index.html, manteniendo los archivos y la carpeta assets juntos.
+Vista local: http://127.0.0.1:8765/index.html
+
+Para iniciar nuevamente desde esta carpeta:
+python3 -m http.server 8765 --bind 127.0.0.1
+
+La vista local se actualiza al guardar cambios en el HTML, CSS, JS o datos.js.
+Rueda / gesto de pinza: zoom. Arrastrar: mover. + / −: zoom.
+Las estrellas se activan a partir del 135%. Los nombres aparecen progresivamente
+al acercarse para evitar empalmes. El zoom llega al 1200%.
+El buscador permite localizar cualquiera de los 199 espacios y abrir su ficha.
+Enter o espacio también abre una estrella que tenga el foco.
+Escape, botón cerrar o clic fuera de la ficha: cerrar.
+
+DATOS
+Datos verificados consultados el 23/10/2026.
+INAH: 9 recintos; 2023, 2024 y 2025 completos; 2026 enero–septiembre.
+Suma de campos mensuales de visitantes nacionales y extranjeros.
+El CSV filtrado utilizado se adjunta como visitas-inah-2023-2026.csv.
+Fuente: https://www.datos.inah.gob.mx/datos-abiertos/visitantes-museos
+
+INBAL: descarga del CSV bloqueada por su servidor. Sus 14 recintos muestran
+las cifras de 2023–2025 de la tabla proporcionada por la usuaria, pendientes
+de contrastar. 
+Fuente: https://datos.gob.mx/dataset/asistentes_red_museos_historico
+
+Soumaya: 2,164,513 visitas en 2025, según The Art Newspaper, abril 2026.
+2024: 2,282,933, según la tabla proporcionada; pendiente de contrastar.
+2023: ND. 2026: sin cifra verificada.
+Fuente: https://www.ccb.pt/wp-content/uploads/2026/04/TOP150ArtNewspaper1.pdf
+
+DIRECTORIO AMPLIADO · 24/10/2026
+198 registros del Sistema de Información Cultural (Secretaría de Cultura),
+más el Salón de la Plástica Mexicana: 199 estrellas en total.
+Fuente: https://sic.cultura.gob.mx/lista.php?estado_id=9&municipio_id=-1&table=museo
+Los 157 registros añadidos no alteran las posiciones originales: todos se
+encuentran estrictamente dentro del polígono formado por las estrellas del contorno.
+Los datos de visitas anteriores se conservan. No se asignan ceros ni estimaciones
+a los nuevos registros sin cifras. La aparición en el SIC no garantiza apertura;
+se muestran los avisos de cierre incluidos en los nombres del directorio.
+La copia de consulta y las direcciones de origen están en directorio-museos-cdmx.json.
+
+FOTOGRAFÍAS
+Las fotografías originales se conservan. Las nuevas proceden de las fichas SIC;
+las de Patología y Cartografía proceden de las secretarías de Salud y Defensa.
+La dirección de cada imagen está en imageCredit de datos.js y en el archivo
+creditos-fotografias.txt. Son fotografías de referencia, no imágenes generadas.
+
+MÚSICA Y NAVEGACIÓN
+La pista local está en assets/interstellar.m4a. index.html conserva el audio
+al abrir el mapa en el marco de la fase 2 y al regresar al inicio.
+El navegador puede exigir una primera interacción para permitir el sonido.
+
+FASE 03 · REFLEXIÓN
+reflexion.html contiene el cierre, una constelación decorativa sin interacción
+y la ventana «Construcción del proyecto». El botón tiene contorno animado.
+Desde el mapa, «Continuar a la reflexión» abre la tercera fase. La navegación
+por index.html conserva el mismo audio entre las tres pantallas.
+La ventana se cierra con ×, Escape o un clic fuera; el cierre permanece visible
+al recorrer su contenido. Se respeta la preferencia de reducir movimiento.
+
+MÚSICA AUTOMÁTICA
+Los controles de pausa y volumen se retiraron de las tres pantallas.
+La pista se reproduce en bucle, con volumen inicial del 35%, en la página
+principal que permanece abierta durante las tres fases. Si el navegador
+bloquea el audio automático, se vuelve a intentar con la primera interacción.
+
+ARCHIVOS UNIFICADOS
+Las tres páginas usan estilo.css para sus estilos y main.js para su interacción,
+música y navegación. datos.js conserva el catálogo y las cifras de los museos.
+Los estilos de cada fase están separados dentro de estilo.css.

@@ -1,0 +1,297 @@
+{
+  "consulta": "2026-10-23",
+  "criterio": "Museos de CDMX con cifras identificables desde 2023. Cobertura verificada, no censo exhaustivo. Cifras presenciales, anuales o parciales con periodo visible.",
+  "museosNuevos": [
+    {
+      "name": "Universum, Museo de las Ciencias",
+      "address": "Circuito Cultural de Ciudad Universitaria s/n, Coyoacán, Ciudad Universitaria, 04510 Ciudad de México",
+      "addressSource": "https://www.universum.unam.mx/como-llegar",
+      "website": "https://www.universum.unam.mx/",
+      "visits": [
+        {
+          "year": 2023,
+          "value": 335368,
+          "period": "Enero–diciembre",
+          "source": "https://www.planeacion.unam.mx/Memoria/2023/PDF/7.32-DGDC.pdf",
+          "page": 2
+        },
+        {
+          "year": 2024,
+          "value": 331899,
+          "period": "Enero–diciembre",
+          "source": "https://www.planeacion.unam.mx/Memoria/2024/PDF/7.32-DGDC.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "name": "Museo UNAM Hoy",
+      "address": "Moneda 2, esquina Seminario, Centro Histórico, Cuauhtémoc, Ciudad de México",
+      "addressSource": "https://www.iisue.unam.mx/museo-unam-hoy/",
+      "website": "https://www.iisue.unam.mx/museo-unam-hoy/",
+      "visits": [
+        {
+          "year": 2024,
+          "value": 8700,
+          "period": "Enero–diciembre",
+          "source": "https://www.planeacion.unam.mx/Memoria/2024/PDF/6.11-IISUE.pdf",
+          "page": 5,
+          "note": "Visitantes dentro del museo; excluye2500 extramuros"
+        }
+      ]
+    },
+    {
+      "name": "Pabellón Nacional de la Biodiversidad",
+      "address": "Circuito del Centro Cultural, Ciudad Universitaria, Coyoacán, Ciudad de México",
+      "addressSource": "https://www.ib.unam.mx/ib/pabio/como-llegar/",
+      "website": "https://www.ib.unam.mx/ib/pabio/",
+      "visits": [
+        {
+          "year": 2024,
+          "value": 144715,
+          "period": "Enero–diciembre",
+          "source": "https://www.planeacion.unam.mx/Memoria/2024/PDF/7.3-IB.pdf",
+          "page": 6,
+          "note": "Reporte anual Instituto Biología. Corroborado tabla mensual2024 enhttps://www.planeacion.unam.mx/informes/PDF/IB-2024-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Museo Universitario del Chopo",
+      "address": "Dr. Enrique González Martínez 10, Santa María la Ribera, Cuauhtémoc, Ciudad de México",
+      "addressSource": "https://www.chopo.unam.mx/imagenes2019/04abril/VOCES/Voces14_SantaMarialaRibera.pdf",
+      "website": "https://www.chopo.unam.mx/",
+      "metric": "Asistentes presenciales",
+      "visits": [
+        {
+          "year": 2023,
+          "value": 72614,
+          "period": "Enero–diciembre",
+          "source": "https://www.planeacion.unam.mx/Memoria/2023/PDF/8.15-MUCh.pdf",
+          "page": 1,
+          "note": "Total372? No:397 actividades presenciales. Excluye128 enlínea y432 híbridas."
+        },
+        {
+          "year": 2024,
+          "value": 101851,
+          "period": "Enero–diciembre",
+          "source": "https://www.planeacion.unam.mx/Memoria/2024/PDF/8.15-MUCh.pdf",
+          "page": 2,
+          "note": "372 actividades presenciales;87,351 es sólo exposiciones y es subconjunto."
+        }
+      ]
+    },
+    {
+      "name": "Museo de Geología de la UNAM",
+      "website": "https://www.geologia.unam.mx/",
+      "visits": [
+        {
+          "year": 2023,
+          "value": 49000,
+          "qualifier": "Más de",
+          "period": "Enero–diciembre",
+          "source": "https://www.planeacion.unam.mx/Memoria/2023/PDF/7.16-IGl.pdf",
+          "page": 5
+        },
+        {
+          "year": 2024,
+          "value": 51400,
+          "qualifier": "Más de",
+          "period": "Enero–diciembre",
+          "source": "https://web.planeacion.unam.mx/Memoria/2024/PDF/7.17-IGl.pdf",
+          "page": 5
+        }
+      ],
+      "address": "Jaime Torres Bodet 176, Santa María la Ribera, Cuauhtémoc, CDMX."
+    },
+    {
+      "name": "Museo Vivo del Muralismo",
+      "address": "República de Argentina 28, Centro Histórico, Cuauhtémoc, Ciudad de México",
+      "visits": [
+        {
+          "year": 2025,
+          "value": 125728,
+          "period": "Enero–diciembre",
+          "source": "https://www.gob.mx/sep/prensa/boletin-1?idiom=es-MX",
+          "sourceType": "primary SEP press release Jan 1 2026"
+        }
+      ]
+    },
+    {
+      "name": "Museo Jumex",
+      "address": "Miguel de Cervantes Saavedra 303, Granada, Miguel Hidalgo, Ciudad de México",
+      "visits": [
+        {
+          "year": 2023,
+          "value": 433003,
+          "period": "Enero–diciembre",
+          "source": "https://files.tryflowdrive.com/DoUQ1J4_250316-Informe-de-Sostenibilidad-Grupo-Jumex-2023---2024.pdf",
+          "sourceType": "Grupo Jumex sustainability report 2023–2024; physical visits only"
+        },
+        {
+          "year": 2024,
+          "value": 530522,
+          "period": "Enero–diciembre",
+          "source": "https://files.tryflowdrive.com/DoUQ1J4_250316-Informe-de-Sostenibilidad-Grupo-Jumex-2023---2024.pdf",
+          "sourceType": "Grupo Jumex sustainability report 2023–2024; physical visits only"
+        }
+      ]
+    },
+    {
+      "name": "Museo Banco de México",
+      "address": "Eje Central Lázaro Cárdenas 2, Centro Histórico, Cuauhtémoc, Ciudad de México",
+      "visits": [
+        {
+          "year": 2024,
+          "value": 66240,
+          "period": "Enero–junio",
+          "source": "https://www.banxico.org.mx/publicaciones-y-prensa/informes-de-avance-de-gestion-financiera/%7BA7D560A2-D5DC-7E43-742F-E45034CD35E1%7D.pdf",
+          "sourceType": "primary Banxico semester management report"
+        },
+        {
+          "year": 2025,
+          "value": 120575,
+          "period": "Enero–junio",
+          "source": "https://www.banxico.org.mx/publicaciones-y-prensa/informes-de-avance-de-gestion-financiera/%7B08B1A759-EECD-C59F-C0F9-153960E76E77%7D.pdf",
+          "sourceType": "primary Banxico first semester 2025 report p29"
+        }
+      ]
+    },
+    {
+      "name": "Museo Franz Mayer",
+      "address": "Avenida Hidalgo 45, Guerrero, Cuauhtémoc, Ciudad de México",
+      "visits": [
+        {
+          "year": 2023,
+          "value": 164662,
+          "period": "Enero–diciembre",
+          "source": "https://www.bitacoracdmx.com/el-museo-franz-mayer-en-2024/",
+          "sourceType": "museum program press release reproduced Jan12 2024"
+        }
+      ],
+      "conflict2024": {
+        "values": [
+          383770,
+          441870
+        ],
+        "sources": [
+          "https://www.elmanana.com/noticias/nacional/museos-ciudad-de-mexico-recuperacion-post-pandemia/5960906",
+          "https://www.eluniversal.com.mx/cultura/franz-mayer-el-museo-que-ha-logrado-crear-nuevos-publicos/"
+        ],
+        "note": "Both press articles claim annual2024; cannot reconcile exact difference. Use2023 only until resolved."
+      }
+    },
+    {
+      "name": "Papalote Museo del Niño",
+      "address": "Avenida Constituyentes 268, Segunda Sección del Bosque de Chapultepec, Miguel Hidalgo, CDMX.",
+      "visits": [
+        {
+          "year": 2024,
+          "value": 432100,
+          "period": "Enero–diciembre",
+          "source": "https://www.papalote.org.mx/wp-content/uploads/2025/06/INFORME-ANUAL-2024_06_JUNIO.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Museo de la Policía",
+      "address": "Victoria 82, Centro Histórico, Cuauhtémoc, CDMX.",
+      "visits": [
+        {
+          "year": 2023,
+          "value": 5389,
+          "period": "Enero–diciembre",
+          "source": "https://www.congresocdmx.gob.mx/archivo-66c2ad28b91233f64905b4998cbba5b26b8000ac.pdf"
+        },
+        {
+          "year": 2024,
+          "value": 3604,
+          "period": "Enero–mayo · parcial",
+          "source": "https://www.congresocdmx.gob.mx/archivo-66c2ad28b91233f64905b4998cbba5b26b8000ac.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Museo de la Ciudad de México",
+      "address": "José María Pino Suárez 30, Centro Histórico, Cuauhtémoc, CDMX.",
+      "visits": [
+        {
+          "year": 2024,
+          "value": 230710,
+          "period": "Enero–diciembre",
+          "source": "https://www.elporvenir.mx/cultural/publico-regresa-a-los-museos-y-rompe-record-de-visitas-en-2024/839044"
+        }
+      ]
+    },
+    {
+      "name": "Museo de los Ferrocarrileros",
+      "address": "Alberto Herrera s/n, Aragón La Villa, Gustavo A. Madero, CDMX.",
+      "visits": [
+        {
+          "year": 2024,
+          "value": 61000,
+          "period": "Enero–diciembre · cifra redondeada",
+          "source": "https://www.elporvenir.mx/cultural/publico-regresa-a-los-museos-y-rompe-record-de-visitas-en-2024/839044"
+        }
+      ]
+    },
+    {
+      "name": "Museo del Estanquillo",
+      "address": "Isabel la Católica 26, Centro Histórico, Cuauhtémoc, CDMX.",
+      "visits": [
+        {
+          "year": 2023,
+          "value": 190366,
+          "period": "Enero–diciembre · personas atendidas",
+          "source": "https://transparencia.cdmx.gob.mx/storage/app/uploads/public/671/bb2/353/671bb235312cf078628597.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Museo Yancuic",
+      "address": "Calzada Ermita-Iztapalapa 2325, Los Ángeles, Iztapalapa, CDMX.",
+      "visits": [
+        {
+          "year": 2024,
+          "value": 214000,
+          "period": "Febrero–8 de diciembre · parcial",
+          "source": "https://cultura.cdmx.gob.mx/comunicacion/nota/444-24",
+          "qualifier": "Más de"
+        }
+      ]
+    },
+    {
+      "name": "Antiguo Colegio de San Ildefonso",
+      "address": "Justo Sierra 16, Centro Histórico, Cuauhtémoc, CDMX.",
+      "visits": [
+        {
+          "year": 2024,
+          "value": 185172,
+          "period": "Enero–diciembre",
+          "source": "https://www.elporvenir.mx/cultural/publico-regresa-a-los-museos-y-rompe-record-de-visitas-en-2024/839044"
+        }
+      ]
+    },
+    {
+      "name": "Museo Nacional de Culturas Populares",
+      "address": "Avenida Hidalgo 289, Del Carmen, Coyoacán, CDMX.",
+      "visits": [
+        {
+          "year": 2024,
+          "value": 157000,
+          "period": "Septiembre 2023–junio 2024 · parcial",
+          "source": "https://sil.gobernacion.gob.mx/Archivos/Documentos/2024/09/asun_4775344_20240919_1726763464.pdf",
+          "qualifier": "Más de",
+          "yearLabel": "2023–2024"
+        }
+      ]
+    }
+  ],
+  "limites": [
+    "INEGI no publica información nominativa de sus informantes.",
+    "MUAC y El Eco aparecen agrupados en los informes consultados.",
+    "No usar estimaciones anuales sin año como observación anual.",
+    "Franz Mayer 2024: cifras contradictorias, se conserva sólo 2023.",
+    "UNAM Hoy 2023: discrepancia en desglose, se conserva sólo 2024."
+  ]
+}
